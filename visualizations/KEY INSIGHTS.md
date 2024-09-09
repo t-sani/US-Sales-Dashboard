@@ -6,14 +6,9 @@
 **Description:**  
 The Home Page provides an overview of the key performance metrics of the Superstore, including total sales, the number of customers, and the operational cities. This page acts as a navigation hub for other detailed sections of the dashboard.
 
-![Home Page](./images/home_page.png)
-
 
 ![Superstore Sales Overview](./Superstore%20Sales%20Overview.png)
 
-
-
-visualizations/Superstore Sales Overview.png
 
 **Key Insights:**
 - **Total Sales**: $1.88M
@@ -30,8 +25,8 @@ The user can navigate to different sections such as Revenue, Regional Sales, Pro
 **Description:**  
 The Revenue Page presents an analysis of revenue by various dimensions, such as region, product category, ship mode, and city. Filters allow users to analyze revenue trends based on specific months, product categories, and customer segments.
 
-![Revenue Page](./images/revenue_page.png)
-
+![Revenue Performance Overview](./Revenue%20Performance%20Overview.png)
+visualizations/Revenue%20Performance%20Overview.png
 **Key Insights:**
 - **Revenue by Region**: The East region dominates revenue, contributing 65.22% of total sales.
 - **Revenue by Product Category**: Office Supplies account for 100% of the selected category's revenue.
@@ -48,7 +43,8 @@ The filters for this page allow the user to change months, product categories, s
 **Description:**  
 This page gives a detailed breakdown of sales by region, state, and product category. It also provides a summary of total sales and the number of products sold in various provinces.
 
-![Regional Sales Page](./images/regional_sales_page.png)
+![Regional Sales Metrics and Product Breakdown](./Regional%20Sales%20Metrics%20and%20Product%20Breakdown.png)
+visualizations/Regional Sales Metrics and Product Breakdown.png
 
 **Key Insights:**
 - **Total Sales**: $1.88M
@@ -66,7 +62,8 @@ This page helps users understand regional sales trends and the contribution of d
 **Description:**  
 The Profit Page offers a breakdown of profitability by city, manager, region, and product category. This allows users to see how different regions and managers contribute to overall profitability.
 
-![Profit Page](./images/profit_page.png)
+![Comprehensive Profit Performance Overview](./Comprehensive%20Profit%20Performance%20Overview.png)
+visualizations/Comprehensive%20Profit%20Performance%20Overview.png
 
 **Key Insights:**
 - **Total Profit**: $144.36K
@@ -84,7 +81,8 @@ The user can filter this page by month, product category, sub-category, and cust
 **Description:**  
 The Product Category Page provides insights into sales, profit, and unit price for each product category and sub-category. It also analyzes performance by manager and month.
 
-![Product Category Page](./images/product_category_page.png)
+![Product Category Metrics & Managerial Overview](./Product%20Category%20Metrics%20&%20Managerial%20Overview.png)
+visualizations/Product%20Category%20Metrics%20&%20Managerial%20Overview.png
 
 **Key Insights:**
 - **Total Sales by Manager**: The Small Business segment generates the highest sales.
@@ -101,7 +99,8 @@ Users can switch between different product categories and sub-categories to iden
 **Description:**  
 This page highlights the performance of the Superstore based on order priority, analyzing total sales, quantity ordered, and profit by priority levels (Critical, High, Medium, Low, etc.).
 
-![Order Priority Page](./images/order_priority_page.png)
+![Order Priority Performance Overview](./Order%20Priority%20Performance%20Overview.png)
+visualizations/Order%20Priority%20Performance%20Overview.png
 
 **Key Insights:**
 - **Top Priority**: High priority orders contribute to 22.82% of total sales.
