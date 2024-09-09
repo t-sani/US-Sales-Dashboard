@@ -8,6 +8,13 @@ The Home Page provides an overview of the key performance metrics of the Superst
 
 ![Home Page](./images/home_page.png)
 
+
+![Superstore Sales Overview](./Superstore%20Sales%20Overview.png)
+
+
+
+visualizations/Superstore Sales Overview.png
+
 **Key Insights:**
 - **Total Sales**: $1.88M
 - **Total Customers**: 1,124
