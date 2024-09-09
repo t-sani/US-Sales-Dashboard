@@ -6,7 +6,7 @@
 **Description:**  
 The Home Page provides an overview of the key performance metrics of the Superstore, including total sales, the number of customers, and the operational cities. This page acts as a navigation hub for other detailed sections of the dashboard.
 
-visualizations/Superstore Sales Overview.png
+![Home Page](./visualization/Superstore Sales Overview.png)
 
 **Key Insights:**
 - **Total Sales**: $1.88M
