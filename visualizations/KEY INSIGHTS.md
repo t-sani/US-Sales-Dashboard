@@ -26,7 +26,7 @@ The user can navigate to different sections such as Revenue, Regional Sales, Pro
 The Revenue Page presents an analysis of revenue by various dimensions, such as region, product category, ship mode, and city. Filters allow users to analyze revenue trends based on specific months, product categories, and customer segments.
 
 ![Revenue Performance Overview](./Revenue%20Performance%20Overview.png)
-visualizations/Revenue%20Performance%20Overview.png
+
 **Key Insights:**
 - **Revenue by Region**: The East region dominates revenue, contributing 65.22% of total sales.
 - **Revenue by Product Category**: Office Supplies account for 100% of the selected category's revenue.
@@ -63,7 +63,7 @@ This page helps users understand regional sales trends and the contribution of d
 The Profit Page offers a breakdown of profitability by city, manager, region, and product category. This allows users to see how different regions and managers contribute to overall profitability.
 
 ![Comprehensive Profit Performance Overview](./Comprehensive%20Profit%20Performance%20Overview.png)
-visualizations/Comprehensive%20Profit%20Performance%20Overview.png
+
 
 **Key Insights:**
 - **Total Profit**: $144.36K
@@ -82,7 +82,7 @@ The user can filter this page by month, product category, sub-category, and cust
 The Product Category Page provides insights into sales, profit, and unit price for each product category and sub-category. It also analyzes performance by manager and month.
 
 ![Product Category Metrics & Managerial Overview](./Product%20Category%20Metrics%20&%20Managerial%20Overview.png)
-visualizations/Product%20Category%20Metrics%20&%20Managerial%20Overview.png
+
 
 **Key Insights:**
 - **Total Sales by Manager**: The Small Business segment generates the highest sales.
@@ -100,7 +100,7 @@ Users can switch between different product categories and sub-categories to iden
 This page highlights the performance of the Superstore based on order priority, analyzing total sales, quantity ordered, and profit by priority levels (Critical, High, Medium, Low, etc.).
 
 ![Order Priority Performance Overview](./Order%20Priority%20Performance%20Overview.png)
-visualizations/Order%20Priority%20Performance%20Overview.png
+
 
 **Key Insights:**
 - **Top Priority**: High priority orders contribute to 22.82% of total sales.
