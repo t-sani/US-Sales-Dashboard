@@ -110,9 +110,7 @@ This page is designed to help users analyze which order priorities are driving t
 
 This dashboard provides an in-depth analysis of the US Superstore's performance across various dimensions. Users can filter the data by month, region, product category, and customer segment to gain actionable insights. The visualizations make it easy to identify trends and areas for improvement, supporting strategic decision-making for the business.
 
----
 
-You can use this template as a Markdown file (`Dashboard_Insights_Report.md`) in your GitHub repository. Make sure to upload the images separately in the `/images` folder, and reference them correctly within the report.
 
 
 
